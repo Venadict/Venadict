@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm just student in korea
 
 <!--
 **Venadict/Venadict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
